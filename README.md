@@ -3,6 +3,6 @@ Python tool to create ternary diagrams. Main advantage from other ternary plot l
 
 I created this tool when I needed such a feature and couldn't find it in other available plotting libraries online. Feel free to use! Any comments/ideas/suggestions are welcome.
 
-An example is located inside trisurf.py
+An example is located inside ternary_surf.py
 
-![Example](/trisurf_example.png)
+![Example](/ternary_surf_example.png)
